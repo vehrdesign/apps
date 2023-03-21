@@ -1,0 +1,9 @@
+*
+{
+    color: whitesmoke;
+}
+
+.imgBx img
+{
+    object-fit: contain !important;
+}
